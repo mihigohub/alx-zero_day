@@ -1,0 +1,10 @@
+git clone
+git config
+git add
+git commit
+git push
+git --set-upstream
+git pull
+git branch
+git checkout
+git status
